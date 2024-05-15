@@ -1,0 +1,19 @@
+{
+  "name": "d3liquidfillgauge",
+  "version": "0.2.0",
+  "description": "Liquid Fill Gauge v1.1 - 7/14/2015",
+  "main": "liquidFillGauge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/343e46d470655f935d4d8e382f2948d9.git"
+  },
+  "author": "Alexandre Dubé",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://gist.github.com/343e46d470655f935d4d8e382f2948d9"
+  },
+  "homepage": "https://gist.github.com/343e46d470655f935d4d8e382f2948d9"
+}
